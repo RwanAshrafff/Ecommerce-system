@@ -16,3 +16,10 @@ This project is a simple yet complete **object-oriented e-commerce system** writ
 - 🧾 Print clear receipt and shipping summary
 
 ---
+## 📸 Output
+![Receipt](images/Receipt.png)
+![Receipt](images/Receipt2.png)
+![Exception](images/Exception.png)
+![Exception](images/Exception2.png)
+
+
